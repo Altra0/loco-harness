@@ -16,7 +16,7 @@ A three-layer career advisory system: deterministic POTS Engine (Layer 1), conve
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/loco-harness.git
+git clone https://github.com/Altra0/loco-harness.git
 cd loco-harness
 ```
 
